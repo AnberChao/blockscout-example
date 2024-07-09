@@ -72,5 +72,5 @@
 | BLOCKSCOUT_PROTOCOL        | https                                                       | 直连节点用http                             |
 | BLOCKSCOUT_VERSION         | 1.0                                                         | 底部版本号                                 |
 | BLOCKSCOUT_DESCRIPTION     | Blockchain explorer for……                                   | 底部文字                                   |
-| API_URL                    | https://explorer.xxx.com                                    | 直连节点（http://18.141.85.17:4000）       |
+| API_URL                    | https://explorer.xxx.com                                    | 直连节点                                   |
 
